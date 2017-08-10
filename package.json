@@ -1,0 +1,25 @@
+{
+  "name": "agsfy",
+  "version": "0.1.0",
+  "description": "Tool for hibrid usage of environments variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navarrojava/agsfy.git"
+  },
+  "keywords": [
+    "environments",
+    "variables",
+    "hibrid",
+    "tool"
+  ],
+  "author": "Navarro Ferreira (navarro.ferreira)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navarrojava/agsfy/issues"
+  },
+  "homepage": "https://github.com/navarrojava/agsfy#readme"
+}
